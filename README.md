@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello There👋
+
+###### My name is Siwei and I am currently a Grade 12 student
+
+
+
 
 <!--
 **Happyseaweed/Happyseaweed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
