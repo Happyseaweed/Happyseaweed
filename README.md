@@ -1,6 +1,6 @@
 ### Hello There👋
 
-###### My name is Siwei and I am currently a Grade 12 student
+###### My name is Siwei and I am currently an undergraduate student at the University of Waterloo.
 
 
 
